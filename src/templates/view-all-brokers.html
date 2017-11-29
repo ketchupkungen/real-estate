@@ -1,0 +1,16 @@
+<div class="container-fluid card-container" *ngIf="brokersObject">
+	<div class="row">
+    <div *ngFor="let brokerObject of brokersObject" class="col-md-6 col-lg-4 mb-4">
+      <div class="card card-profile">
+        <div class="img-profile-small" [style.background-image]="'url(' + brokerObject.profile_image_src + ')'">
+        </div>
+        <div class="card-block">
+          <h4 class="card-title">{{brokerObject.firstName + " " + brokerObject.lastName}}</h4>
+          <p class="card-text">{{brokerObject.contact.phone}}</p>
+          <p class="card-text mail-text-size small">{{brokerObject.contact.mail}}</p>
+          <p class="card-text">{{brokerObject.contact.personDesc}}</p>
+        </div>
+      </div>
+    </div>
+	</div>
+</div>

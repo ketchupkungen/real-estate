@@ -1,0 +1,23 @@
+.sell-with-us {
+	background-image: url("../img/sell-with-us.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: 70% 50%;
+}
+
+.sell-with-us form h2 {
+	color: white;
+}
+
+.sell-with-us form p {
+	color: white;
+}
+
+.sell-with-us form {
+	background: rgb(0, 0, 0); /* fallback color */
+   	background: rgba(0, 0, 0, 0.5);
+}
+
+.sell-with-us-button:hover {
+	cursor: pointer;
+}

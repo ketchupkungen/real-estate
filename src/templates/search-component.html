@@ -1,0 +1,25 @@
+<div class="container-fluid search-component">
+	<form class="pt-4">
+		<div class="form-group">
+			<label for="searchBox">Sök</label>
+			<input class="form-control" (keyup)="onKey($event)" id="searchBox" type="search" placeholder="{{placeHolder}}">
+		</div>
+	</form>
+
+	<div class="row pb-4">
+		<div *ngFor="let filter of localMem.filters" class="col-6 col-md-3">
+			<div ngbDropdown>
+        <button class="btn btn-secondary dropdown-hover" id="dropdownMenu1" ngbDropdownToggle>
+        	<span *ngIf="!filter.selectedName"> {{filter.type}}</span>
+        	<span *ngIf="filter.selectedName">{{filter.selectedName}}</span>
+        </button>
+        <div class="dropdown-menu" aria-labelledby="dropdownMenu1">
+          <button class="dropdown-item" *ngFor="let option of filter.options" 
+          (click)="chooseFilter(filter, option)">
+          	{{option.name}}
+          </button>
+        </div>
+    	</div>
+		</div>
+	</div>
+</div>

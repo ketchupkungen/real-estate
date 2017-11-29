@@ -1,0 +1,15 @@
+<div class="container" *ngIf="usObject">
+  <div class="row">
+    <div class="col-12">
+      <div class="mb-4 mt-4">
+        <img class="img-fluid jobb-img" src="img/jobb.jpg">
+      </div>
+      <h2 class="card-title text-muted">{{usObject.jobs.header}}</h2>
+      <p *ngFor="let text of usObject.jobs.texts" class="text-muted">{{text}}</p>
+      <div class="mb-4 mt-4">
+        <p class="text-muted"> Mail: <strong>{{usObject.contact.mail.hq}}</strong></p>
+        <p class="text-muted"> Tele: <strong>{{usObject.contact.phone}}</strong></p>
+      </div>
+    </div>
+  </div>
+</div>

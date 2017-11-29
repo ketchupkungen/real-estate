@@ -1,0 +1,37 @@
+<div class="row" *ngIf="salesObject">
+	<div class="col-12">
+		<div class="card border-0 mb-3">
+		  <div class="card-block">
+	    	<div class="row">
+	    		<div class="col-xs-12 col-md-7">
+				    <h4 class="card-title mt-4">Beskrivning</h4>
+	    			<p class="card-text text-muted">{{salesObject.text.info}}</p>
+	    			<div class="viewings mt-3">
+			  			<h4 class="card-title">Visningar</h4>
+			  			<table class="table table-sm">
+							  <thead>
+							    <tr class="table-info">
+							      <th>Datum</th>
+							      <th>Från</th>
+							      <th>Till</th>
+							    </tr>
+							  </thead>
+							  <tbody>
+							    <tr *ngFor="let showing of salesObject.showings">
+							      <th scope="row">{{showing.date}}</th>
+							      <td>{{showing.from}}</td>
+							      <td>{{showing.to}}</td>
+							    </tr>
+							  </tbody>
+						</table>
+					</div>
+	    		</div>
+	    		<div class="col-xs-12 col-md-5 mt-3">
+			    	<h4 class="card-title">Interiör</h4>
+  					<p *ngFor="let text of salesObject.text.roomInfo" class="text-muted">{{text}}</p>
+	    		</div>
+    		</div>
+		  </div>
+		</div>
+	</div>
+</div>

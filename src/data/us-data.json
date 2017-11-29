@@ -1,0 +1,32 @@
+{
+	"logo":"/img/logo.png",
+	"name": "Dhyr & Rumson",
+	"contact": {
+		"phone": "040-27301",
+		"mail": {
+			"hq": "hq@dhyrorumson.se",
+			"support": "support@dhyrorumson.se"
+		}
+	},
+	"place": {
+		"city": "Malmö",
+		"adress": "Gullesväg, 1",
+		"postcode": 27032
+	},
+	"about": {
+		"header": "Om oss",
+		"texts": [
+			"Bacon ipsum dolor amet brisket fatback sirloin ham turkey. Short loin beef ribs brisket, ground round sirloin burgdoggen turducken. Meatball venison meatloaf tenderloin cupim sausage prosciutto short loin pig swine tri-tip. Kevin biltong ham hock, brisket cow turducken boudin tri-tip bacon andouille strip steak. Landjaeger tongue tail ball tip, pork belly tri-tip andouille spare ribs beef ground round tenderloin. Beef jerky drumstick, ham hock shankle rump jowl. Salami cow tri-tip, burgdoggen beef ribs pork belly short loin andouille frankfurter shankle pancetta pastrami cupim pork loin. Pork chop corned beef pastrami pork belly tenderloin jowl. Chuck strip steak drumstick ham bacon swine biltong pig meatloaf, corned beef short ribs ham hock t-bone picanha capicola. Chuck frankfurter meatloaf pancetta. Spare ribs shankle porchetta, salami corned beef filet mignon biltong meatball tenderloin capicola strip steak. Flank tail rump, ham hock sirloin ribeye turkey shankle swine chicken bresaola tenderloin salami hamburger meatloaf. ",
+			"Beef prosciutto kielbasa pork chop pig salami jowl leberkas. Pork filet mignon brisket doner picanha hamburger. Corned beef flank fatback venison burgdoggen ham turkey alcatra beef ribs andouille pork tongue ribeye bacon pig. Rump jowl ham hock cow, ribeye tri-tip jerky andouille strip steak ground round shoulder swine spare ribs pork loin. Ham hock prosciutto tri-tip, swine ribeye shankle landjaeger filet mignon meatball tenderloin leberkas short ribs kielbasa meatloaf. Ground round pancetta turkey doner salami, beef rump tri-tip cupim. Hamburger doner tenderloin landjaeger, bresaola shank flank t-bone capicola ham short loin. Turducken ground round andouille leberkas beef, shank sausage biltong shankle. Tenderloin tongue ground round hamburger. Turkey swine tail turducken filet mignon pancetta bresaola, salami ball tip frankfurter corned beef jerky. T-bone turkey short loin cow venison. Corned beef meatball turducken cow prosciutto burgdoggen, ham bresaola chuck shoulder turkey ground round short ribs. Corned beef andouille tail, frankfurter meatball capicola short loin ham hock sirloin landjaeger bacon strip steak turkey. Burgdoggen kevin leberkas swine beef corned beef, biltong short loin pig venison pastrami flank. Cow shankle jowl, pork belly hamburger drumstick t-bone tail spare ribs ham hock short loin tenderloin pig prosciutto andouille. Boudin short ribs shank alcatra landjaeger. Landjaeger spare ribs alcatra, filet mignon cow shoulder turducken pork belly ham strip steak kielbasa.",
+			"Cow capicola brisket, flank meatball ham pastrami boudin meatloaf shank tongue sirloin burgdoggen strip steak turkey. Chicken andouille drumstick, jowl rump burgdoggen tongue short ribs bresaola hamburger salami kielbasa. Brisket pastrami porchetta pork pork belly pig. Burgdoggen kevin capicola jowl kielbasa frankfurter pork.",
+			"Cow capicola brisket, flank meatball ham pastrami boudin meatloaf shank tongue sirloin burgdoggen strip steak turkey. Chicken andouille drumstick, jowl rump burgdoggen tongue short ribs bresaola hamburger salami kielbasa. Brisket pastrami porchetta pork pork belly pig. Burgdoggen kevin capicola jowl kielbasa frankfurter pork."
+		]
+	},
+	"jobs": {
+		"header": "Jobba hos oss!",
+		"texts": [
+			"Bacon ipsum dolor amet brisket fatback sirloin ham turkey. Short loin beef ribs brisket, ground round sirloin burgdoggen turducken. Meatball venison meatloaf tenderloin cupim sausage prosciutto short loin pig swine tri-tip. Kevin biltong ham hock, brisket cow turducken boudin tri-tip bacon andouille strip steak. Landjaeger tongue tail ball tip, pork belly tri-tip andouille spare ribs beef ground round tenderloin. Beef jerky drumstick, ham hock shankle rump jowl.",
+			"Salami cow tri-tip, burgdoggen beef ribs pork belly short loin andouille frankfurter shankle pancetta pastrami cupim pork loin. Pork chop corned beef pastrami pork belly tenderloin jowl. Chuck strip steak drumstick ham bacon swine biltong pig meatloaf, corned beef short ribs ham hock t-bone picanha capicola. Chuck frankfurter meatloaf pancetta. Spare ribs shankle porchetta, salami corned beef filet mignon biltong meatball tenderloin capicola strip steak. Flank tail rump, ham hock sirloin ribeye turkey shankle swine chicken bresaola tenderloin salami hamburger meatloaf."
+		]
+	}
+}

@@ -1,0 +1,6 @@
+<div *ngIf="salesObject" class="mt-4 row">
+  <figure class="col-12 figure text-center" *ngFor="let image of salesObject.img">
+    <img src="{{image.src}}" class="figure-img img-fluid" alt="House image">
+    <figcaption class="mb-4">{{image.caption}}</figcaption>
+  </figure>
+</div>

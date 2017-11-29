@@ -1,0 +1,9 @@
+.layout {
+	text-align: center;
+	display: block; 
+	width: 100%;
+}
+
+.layout p {
+	margin-bottom: 2px;
+}

@@ -1,0 +1,43 @@
+.card-container a {
+	color: #4c96d7;
+}
+
+.card-container a:hover {
+	color: #083b66;
+}
+
+.img-object-small {
+	background-position: 50% 80%;
+	background-size: cover;
+	border-right: 1px solid lightgrey;
+	height: 250px;
+}
+
+.img-object-small:last-child {
+	border-right: 0px;
+}
+
+.sorting-controls a {
+	width: 100%;
+	margin-bottom: 10px;
+	display: inline-block;
+	color: #4c96d7;
+}
+
+.sorting-controls a:hover {
+	color: #083b66;
+	cursor: pointer;
+}
+
+.table {
+  font-size: 14px;
+  max-width: 350px;
+}
+
+.last-element {
+  margin-bottom: 20px;
+}
+
+.city {
+  margin-top: 0px;
+}

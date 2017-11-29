@@ -1,0 +1,10 @@
+.detail-head-background {
+	background-position: 50% 80%;
+  background-size: cover;
+	height: 70vh;
+}
+
+.detail-head-info {
+	background-color: rgba(245, 245, 245, 0.6);
+	margin: 20px 20px;
+}

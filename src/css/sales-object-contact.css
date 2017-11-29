@@ -1,0 +1,22 @@
+.text-margin {
+	margin-bottom: 0px; 
+}
+
+.contact-img img {
+	width: 100%;
+	border-radius: 10px;
+	margin-top: 30px;
+	margin-bottom: 30px;
+}
+
+@media screen and (max-width: 570px) {
+	.small-vspace {
+		height: 10px;
+	}
+
+	.contact-img img {
+		width: 100%;
+		margin-left: 0;
+		margin-right: 0;
+	}
+}

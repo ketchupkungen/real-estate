@@ -1,0 +1,25 @@
+.contact-us-form {
+  background-image: url("../img/contact-image.jpeg");
+  background-size: cover;
+  width: 100%;
+  padding: 20px;
+}
+
+.contact-us-form h2 {
+	color: white;
+}
+
+.contact-us-form form{
+	background: rgb(0, 0, 0); /* fallback color */
+   	background: rgba(0, 0, 0, 0.5);
+}
+
+.contact-us-button:hover {
+	cursor: pointer;
+}
+
+@media screen and (max-width: 769px) {
+  .adress-margin {
+   margin-bottom: 15px;
+  }
+}

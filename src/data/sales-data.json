@@ -1,0 +1,562 @@
+[
+	{
+		"dateAdded": "2017-03-18",
+		"type": "Bostadsrättslägenhet",
+		"price": 350000,
+		"priceMonth": 3900,
+		"buildDate": 1978,
+		"showings": [
+			{"date": "2017-04-21", "from": "11:00", "to": "13:00"},
+			{"date": "2017-04-25", "from": "09:00", "to": "11:00"},
+			{"date": "2017-04-26", "from": "11:30", "to": "14:30"},
+			{"date": "2017-04-28", "from": "11:00", "to": "13:00"}
+		],
+		"sold": false,
+		"rooms": 4,
+		"bathrooms": 1,
+		"area": 80,
+		"totalArea": 120,
+		"brokerId": "1",
+		"place": {
+			"city": "Malmö",
+			"municipality": "Malmö",
+			"adress": "Gullesväg 1",
+			"postcode": 27032
+		},
+		"text": {
+			"info": "Gavellägenhet med fint ljusinsläpp och öppen planlösning. De öppna ytorna mellan kök och vardagsrum skapar en trivsam och inbjudande känsla. Köket erbjuder gott om förvaring och arbetsytor för kocken. Vardagsrummet rymmer både soffgrupp och tillhörande möblemang där familj och vänner kan samlas. 2 sovrum. Rymligt badrum med klädvårdsavdelning. Inglasad balkong i fritt läge och vacker utsikt. Här i populära Amhult har du gångavstånd till alla tänkbara bekvämligheter som dagligvaruhandel, butiker, bank, apotek caféer, restauranger och kulturhuset Vingen. Goda kommunikationer och närhet till hav och natur.",
+			"shortInfo": "Gedigen villa från 1926 som totalrenoverats och byggts ut med varsam hand. Resultatet - ett unikt och modernt hus med mycket charm! Beläget på en hörntomt där Irisgatan möter Södertorpsvägen finner vi det med en stor härlig tomt.",
+			"roomInfo": [
+				"Välkommen in till ett trevligt och välskött trapphus och ta hissen högst upp i lägenheten.",
+				"I bostaden möts du av en ljus och fräsch hall med klinker och en fin parkett som är genomgående i hela lägenheten. Hallen erbjuder goda av hängnings möjligheter i både öppen och stängd förvaring. Lägenheten är målad 2015 i ljusa färger som skapar en behaglig och fräsch känsla.",
+				"Vardagsrummet har öppen planlösning mot kökets matplats vilket skapar rymd i bostaden. Vardagsrummet är väl tilltaget och rymmer både soffgrupp med tillhörande möblemang och teknikutrustning. Utgång till den härliga inglasade balkongen. De generösa fönsterpartierna gör att ljuset hittar in i bostaden och du kan blicka ut över golfbanan, älven och grannskapet.",
+				"Badrummet når du från hallen. Här har du bostadens tvättavdelning med tvättmaskin, 2014 och torktumlare. Praktisk avlastningsskiva över maskinerna underlättar vid hanteringen av tvätten. Bra skåp skapar extra förvaring. Helkaklat i naturfärger. Badrumskommod med spegel och belysning. Badkar med dusch möjlighet. Handdukstork håller badlakanen torra och varma. Härlig golvvärme."
+			]
+		},
+		"img": [
+			{"src":"/img/objectId1-img1.jpg", "caption":"Exteriör, en vacker framsida!"},
+			{"src":"/img/objectId1-img2.jpg", "caption":"En annan caption för bilden"},
+			{"src":"/img/objectId1-img3.jpg", "caption":"Vardagsrum med morgonsol"},
+			{"src":"/img/objectId1-img4.jpg", "caption":"Vackert belägen i en rosendoftande skogsdunge!"}
+		],
+
+		"layout": [
+			{"src":"/img/layout1.jpg", "description":"Bottenvåning"},
+			{"src":"/img/layout2.jpg", "description":"Andra våningen"}
+		]
+	},
+	{
+		"dateAdded": "2017-03-01",
+		"type": "Bostadsrättsradhus",
+		"price": 600000,
+		"priceMonth": 5600,
+		"buildDate": 1990,
+		"showings": [
+			{"date": "2017-05-21", "from": "11:00", "to": "13:00"},
+			{"date": "2017-05-25", "from": "09:00", "to": "11:00"},
+			{"date": "2017-05-26", "from": "11:30", "to": "14:30"},
+			{"date": "2017-05-28", "from": "11:00", "to": "13:00"}
+		],
+		"sold":false,
+		"rooms": 7,
+		"bathrooms": 2,
+		"area": 140,
+		"totalArea": 170,
+		"brokerId": "2",
+		"place": {
+			"city": "Kivik",
+			"municipality": "Simrishamn",
+			"adress": "Skånevägen 3",
+			"postcode": 27143
+		},
+		"text": {
+			"info": "På bra pendlingsläge med närhet till både Lund och Malmö finner ni detta välplanerade parhus i populära Dalby. Bostaden är belägen i ett bilfritt och mycket barnvänligt område. Bostaden erbjuder två bra sovrum, vardagsrum med utgång till uteplats och gräsmatta på baksidan, tvättstuga badrum och kök med egen matplats. Bra möjlighet till förvaring på vinden, vilken även kan förädlas till bostad om så önskas. Dalby har mycket att erbjuda i service utbud, bra skolor, möjlighet till kommunikationer och inte att förglömma Dalbys fantastiska natur. Varmt välkomna att boka in er på en visning!",
+			"shortInfo": "Ett hus att sämja dem, ett hus att främja dem, ett hus att djupt i mörkrets vida riken tämja dem!",
+			"roomInfo": [
+				"Välkomnande ingång på tomten via stensatt gång, tomten är inringad av nybyggt staket.",
+				"Ingång sker antingen via tvättstuga eller genom huvudingången. Från huvudingången har ni en bra uppfattning om hela bostaden, Här finns gott om möjlighet för avhängning och förvaring. Hallen är målad och tapetserad och på golvet ligger parkett. Från hallen tar ni er enkelt in i vardagsrummet som ligger rakt fram, här finns gott om plats för både vardagsrumsmöblemang och matplats om så önskas. Här finns även utgång till en uteplats och gräsmatta. Vardagsrummet är vitmålat och på golvet ligger parkettgolv.",
+				"Från hallen når ni även tvättstugan som är utrustad med tvättmaskin, torktumlare, tvättställ och bra förvaring.",
+				"Vidare från hallen når ni köket som med härligt ljusinsläpp ger ett mysigt kök med bra förvaringsmöjlighet och matplats för ca 6 personer.",
+				"Trädgårdstomt med fruktträd, gräsmatta på tre sidor med gott om utrymme för lek och spel."
+			]
+		},
+		"img": [
+			{"src":"img/objectId2-img1.jpg", "caption":"Vacker stenfasad"},
+			{"src":"img/objectId2-img2.jpg", "caption":"Öppen planlösning"},
+			{"src":"img/objectId2-img3.jpg", "caption":"Ljust vardagsrum med stora ytor"},
+			{"src":"img/objectId2-img4.jpg", "caption":"Ett härligt område"},
+			{"src":"img/objectId2-img5.jpg", "caption":"Vackert belägen i en rosendoftande skogsdunge!"}
+		],
+
+		"layout": [
+			{"src":"/img/layout4.jpg", "description":"Bottenvåning"},
+			{"src":"/img/layout5.jpg", "description":"Andra våning"},
+			{"src":"/img/layout6.jpg", "description":"Tredje våning"}
+		]
+	},
+	{
+		"dateAdded": "2017-04-02",
+		"type": "Villa",
+		"price": 1200000,
+		"priceMonth": 3400,
+		"buildDate": 1990,
+		"showings": [
+			{"date": "2017-06-21", "from": "11:00", "to": "13:00"},
+			{"date": "2017-06-25", "from": "09:00", "to": "11:00"},
+			{"date": "2017-06-26", "from": "11:30", "to": "14:30"},
+			{"date": "2017-06-28", "from": "11:00", "to": "13:00"}
+		],
+		"sold": true,
+		"rooms": 5,
+		"bathrooms": 1,
+		"area": 120,
+		"totalArea": 180,
+		"brokerId": "3",
+		"place": {
+			"city": "Brösarp",
+			"municipality": "Tomelilla",
+			"adress": "Kristianstadsvägen 23",
+			"postcode": 29142
+		},
+		"text": {
+			"info": "2 rum & kök centralt i Brösarp med bra planlösning och nära till det mesta! Lägenheten har ett stort vardagsrum som ger plats för generös soffa, skrivbord/stuidehörna, TV och TV-bänk. Härifrån når man också balkongen i västerläge. Kök med nyare bänkskivor, köksskåp och vitvaror. Mitt i lägenheten finns badrummet.",
+			"shortInfo": "Nämndemansgården med anor från 1800-talet. 7 rum och kök fördelade på ca 250 kvm bostadsyta. Gäststuga , ekonomibyggnad, ladugård samt garage. Trädgårdstomt med stort antal fruktträd. Öppen åkermark. Bostadshuset är i behov av renovering men full av charm och möjligheter.",
+			"roomInfo": [
+				"Hall med plats för avhängning. Direkt till vänster finns köket som också inrymmer matplatsen. Ny spis 2016, övriga vitvaror är ca 7-8 år gammal. Vidare in i lägenheten kommer en rejäl klädkammare som passar utmärkt för den aktive med mycket kläder och utrustning. Sovrummet som ligger intill har plats för dubbelsäng och bjuder också på generöst med förvaring i garderober.",
+				"Rakt fram finns badrummet med toalett, dusch och handfat. Till höger finns vardagsrummet som också skulle kunna inrymma en extra säng om så behövs.",
+				"Vardagsrummet har öppen planlösning mot kökets matplats vilket skapar rymd i bostaden. Vardagsrummet är väl tilltaget och rymmer både soffgrupp med tillhörande möblemang och teknikutrustning. Utgång till den härliga inglasade balkongen. De generösa fönsterpartierna gör att ljuset hittar in i bostaden och du kan blicka ut över golfbanan, älven och grannskapet.",
+				"Badrummet når du från hallen. Här har du bostadens tvättavdelning med tvättmaskin, 2014 och torktumlare. Praktisk avlastningsskiva över maskinerna underlättar vid hanteringen av tvätten. Bra skåp skapar extra förvaring. Helkaklat i naturfärger. Badrumskommod med spegel och belysning. Badkar med dusch möjlighet. Handdukstork håller badlakanen torra och varma. Härlig golvvärme."
+			]
+		},
+		"img": [
+			{"src":"img/objectId3-img1.jpg", "caption":"Vackert belägen i en rosendoftande skogsdunge!"},
+			{"src":"img/objectId3-img2.jpg", "caption":"Vackert belägen i en rosendoftande skogsdunge!"},
+			{"src":"img/objectId3-img3.jpg", "caption":"Vackert belägen i en rosendoftande skogsdunge!"},
+			{"src":"img/objectId3-img4.jpg", "caption":"Vackert belägen i en rosendoftande skogsdunge!"}
+		],
+
+		"layout": [
+			{"src":"/img/layout3.jpg", "description":"Bottenvåningen"},
+			{"src":"/img/layout4.jpg", "description":"Andra våningen"}
+		]
+	},
+	{
+		"dateAdded": "2017-04-16",
+		"type": "Villa",
+		"price": 2300000,
+		"priceMonth": 4300,
+		"buildDate": 1992,
+		"showings": [
+			{"date": "2017-08-05", "from": "11:00", "to": "13:00"},
+			{"date": "2017-08-09", "from": "09:00", "to": "11:00"},
+			{"date": "2017-08-02", "from": "12:30", "to": "15:30"},
+			{"date": "2017-08-12", "from": "11:00", "to": "13:00"}
+		],
+		"sold": false,
+		"rooms": 11,
+		"bathrooms": 2,
+		"area": 190,
+		"totalArea": 210,
+		"brokerId": "4",
+		"place": {
+			"city": "Vikingstad",
+			"municipality": "Linköping",
+			"adress": "Backgårdsgatan 17",
+			"postcode": 59049
+		},
+		"text": {
+			"info": "Lägenheten har en modern och funktionell planlösning och är bekvämt belägen på markplan med egen uteplats och trädgårdstäppa med eftermiddagssol, gavelläget ger bostaden ett underbart ljusinsläpp med fönster från tre håll.",
+			"shortInfo": "Här bor ni i förortsidyll på landet men ändå centralt då pendeln tar er till Linköping city på endast sju minuter med avgång var tjugonde minut, direktbuss till US, universitet samt Mjärdevi Center. Vikingstad samhälle erbjuder mataffär, pizzeria, skola åk 1-6 och tempererade bassänger i Valkebobadet.",
+			"roomInfo": [
+				"Välkomna till detta drömboende uppfört 2014/2015. Här möts ni av den öppna planlösningen mellan köket och vardagsrummet som tillsammans med två gavelfönster ger ett fint ljusflöde i hela lägenheten. Det eleganta köket från Ballingslöv är utrustat med stiliga detaljer såsom ljus mosaik över diskbänk som snyggt bryts av mot mörkare bänkskiva, elegant belysning i form av flertalet spotlights, samt vitvaror i vitt utförande av märket Bosch.",
+				"Från vardagsrummet når ni den härliga uteplatsen med tillhörande trädgårdstäppa belägen i ett solvänligt läge, här kan ni njuta av den behagliga eftermiddags och kvällssolen. De tre sovrummen är praktiskt separerade i olika delar av lägenheten, det större sovrummet har en skjutdörrsgarderob för ultimat förvaring.",
+				"Dessutom finns här ett lyxigt helkaklat badrum med spotlights i tak och goda möjligheter till tvätthantering i form av såväl arbetsbänk som tvättmaskin och torktumlare.",
+				"Goda möjligheter till förvaring ges genom stort separat förråd. Varje lägenhetsinnehavre är garanterad en p-plats med el-stolpe."
+			]
+		},
+		"img": [
+			{"src":"img/objectId4-img1.jpg", "caption":"Vackert belägen i en rosendoftande skogsdunge!"},
+			{"src":"img/objectId4-img2.jpg", "caption":"Vackert belägen i en rosendoftande skogsdunge!"},
+			{"src":"img/objectId4-img3.jpg", "caption":"Vackert belägen i en rosendoftande skogsdunge!"},
+			{"src":"img/objectId4-img4.jpg", "caption":"Vackert belägen i en rosendoftande skogsdunge!"}
+		],
+
+		"layout": [
+			{"src":"/img/layout6.jpg"}
+		]
+	},
+	{
+		"dateAdded": "2017-04-15",
+		"type": "Villa",
+		"price": 2400000,
+		"priceMonth": 4500,
+		"buildDate": 1992,
+		"showings": [
+			{"date": "2017-08-05", "from": "11:00", "to": "13:00"},
+			{"date": "2017-08-09", "from": "09:00", "to": "11:00"},
+			{"date": "2017-08-02", "from": "12:30", "to": "15:30"},
+			{"date": "2017-08-12", "from": "11:00", "to": "13:00"}
+		],
+		"sold": false,
+		"rooms": 12,
+		"bathrooms": 2,
+		"area": 200,
+		"totalArea": 210,
+		"brokerId": "5",
+		"place": {
+			"city": "Vikingstad",
+			"municipality": "Linköping",
+			"adress": "Backgårdsgatan 18",
+			"postcode": 59049
+		},
+		"text": {
+			"info": "Lägenheten har en modern och funktionell planlösning och är bekvämt belägen på markplan med egen uteplats och trädgårdstäppa med eftermiddagssol, gavelläget ger bostaden ett underbart ljusinsläpp med fönster från tre håll.",
+			"shortInfo": "Här bor ni i förortsidyll på landet men ändå centralt då pendeln tar er till Linköping city på endast sju minuter med avgång var tjugonde minut, direktbuss till US, universitet samt Mjärdevi Center. Vikingstad samhälle erbjuder mataffär, pizzeria, skola åk 1-6 och tempererade bassänger i Valkebobadet.",
+			"roomInfo": [
+				"Välkomna till detta drömboende uppfört 2014/2015. Här möts ni av den öppna planlösningen mellan köket och vardagsrummet som tillsammans med två gavelfönster ger ett fint ljusflöde i hela lägenheten. Det eleganta köket från Ballingslöv är utrustat med stiliga detaljer såsom ljus mosaik över diskbänk som snyggt bryts av mot mörkare bänkskiva, elegant belysning i form av flertalet spotlights, samt vitvaror i vitt utförande av märket Bosch.",
+				"Från vardagsrummet når ni den härliga uteplatsen med tillhörande trädgårdstäppa belägen i ett solvänligt läge, här kan ni njuta av den behagliga eftermiddags och kvällssolen. De tre sovrummen är praktiskt separerade i olika delar av lägenheten, det större sovrummet har en skjutdörrsgarderob för ultimat förvaring.",
+				"Dessutom finns här ett lyxigt helkaklat badrum med spotlights i tak och goda möjligheter till tvätthantering i form av såväl arbetsbänk som tvättmaskin och torktumlare.",
+				"Goda möjligheter till förvaring ges genom stort separat förråd. Varje lägenhetsinnehavre är garanterad en p-plats med el-stolpe."
+			]
+		},
+		"img": [
+			{"src":"img/objectId5-img1.jpg", "caption":"Vackert belägen i en rosendoftande skogsdunge!"},
+			{"src":"img/objectId5-img2.jpg", "caption":"Vackert belägen i en rosendoftande skogsdunge!"},
+			{"src":"img/objectId4-img3.jpg", "caption":"Vackert belägen i en rosendoftande skogsdunge!"},
+			{"src":"img/objectId4-img4.jpg", "caption":"Vackert belägen i en rosendoftande skogsdunge!"}
+		],
+
+		"layout": [
+			{"src":"/img/layout6.jpg"}
+		]
+	},
+	{
+		"dateAdded": "2017-04-12",
+		"type": "Villa",
+		"price": 1400000,
+		"priceMonth": 3900,
+		"buildDate": 1990,
+		"showings": [
+			{"date": "2017-06-21", "from": "11:00", "to": "13:00"},
+			{"date": "2017-06-25", "from": "09:00", "to": "11:00"},
+			{"date": "2017-06-26", "from": "11:30", "to": "14:30"},
+			{"date": "2017-06-28", "from": "11:00", "to": "13:00"}
+		],
+		"sold": false,
+		"rooms": 5,
+		"bathrooms": 1,
+		"area": 130,
+		"totalArea": 180,
+		"brokerId": "6",
+		"place": {
+			"city": "Brösarp",
+			"municipality": "Tomelilla",
+			"adress": "Kristianstadsvägen 24",
+			"postcode": 29142
+		},
+		"text": {
+			"info": "2 rum & kök centralt i Brösarp med bra planlösning och nära till det mesta! Lägenheten har ett stort vardagsrum som ger plats för generös soffa, skrivbord/stuidehörna, TV och TV-bänk. Härifrån når man också balkongen i västerläge. Kök med nyare bänkskivor, köksskåp och vitvaror. Mitt i lägenheten finns badrummet.",
+			"shortInfo": "Nämndemansgården med anor från 1800-talet. 7 rum och kök fördelade på ca 250 kvm bostadsyta. Gäststuga , ekonomibyggnad, ladugård samt garage. Trädgårdstomt med stort antal fruktträd. Öppen åkermark. Bostadshuset är i behov av renovering men full av charm och möjligheter.",
+			"roomInfo": [
+				"Hall med plats för avhängning. Direkt till vänster finns köket som också inrymmer matplatsen. Ny spis 2016, övriga vitvaror är ca 7-8 år gammal. Vidare in i lägenheten kommer en rejäl klädkammare som passar utmärkt för den aktive med mycket kläder och utrustning. Sovrummet som ligger intill har plats för dubbelsäng och bjuder också på generöst med förvaring i garderober.",
+				"Rakt fram finns badrummet med toalett, dusch och handfat. Till höger finns vardagsrummet som också skulle kunna inrymma en extra säng om så behövs.",
+				"Vardagsrummet har öppen planlösning mot kökets matplats vilket skapar rymd i bostaden. Vardagsrummet är väl tilltaget och rymmer både soffgrupp med tillhörande möblemang och teknikutrustning. Utgång till den härliga inglasade balkongen. De generösa fönsterpartierna gör att ljuset hittar in i bostaden och du kan blicka ut över golfbanan, älven och grannskapet.",
+				"Badrummet når du från hallen. Här har du bostadens tvättavdelning med tvättmaskin, 2014 och torktumlare. Praktisk avlastningsskiva över maskinerna underlättar vid hanteringen av tvätten. Bra skåp skapar extra förvaring. Helkaklat i naturfärger. Badrumskommod med spegel och belysning. Badkar med dusch möjlighet. Handdukstork håller badlakanen torra och varma. Härlig golvvärme."
+			]
+		},
+		"img": [
+			{"src":"img/objectId6-img1.jpg", "caption":"Vackert belägen i en rosendoftande skogsdunge!"},
+			{"src":"img/objectId6-img2.jpg", "caption":"Vackert belägen i en rosendoftande skogsdunge!"},
+			{"src":"img/objectId3-img3.jpg", "caption":"Vackert belägen i en rosendoftande skogsdunge!"},
+			{"src":"img/objectId3-img4.jpg", "caption":"Vackert belägen i en rosendoftande skogsdunge!"}
+		],
+
+		"layout": [
+			{"src":"/img/layout3.jpg", "description":"Bottenvåningen"},
+			{"src":"/img/layout4.jpg", "description":"Andra våningen"}
+		]
+	},
+	{
+		"dateAdded": "2017-02-20",
+		"type": "Bostadsrättslägenhet",
+		"price": 360000,
+		"priceMonth": 4000,
+		"buildDate": 1978,
+		"showings": [
+			{"date": "2017-04-21", "from": "11:00", "to": "13:00"},
+			{"date": "2017-04-25", "from": "09:00", "to": "11:00"},
+			{"date": "2017-04-26", "from": "11:30", "to": "14:30"},
+			{"date": "2017-04-28", "from": "11:00", "to": "13:00"}
+		],
+		"sold": false,
+		"rooms": 4,
+		"bathrooms": 1,
+		"area": 90,
+		"totalArea": 120,
+		"brokerId": "7",
+		"place": {
+			"city": "Malmö",
+			"municipality": "Malmö",
+			"adress": "Gullesväg 4",
+			"postcode": 27032
+		},
+		"text": {
+			"info": "Gavellägenhet med fint ljusinsläpp och öppen planlösning. De öppna ytorna mellan kök och vardagsrum skapar en trivsam och inbjudande känsla. Köket erbjuder gott om förvaring och arbetsytor för kocken. Vardagsrummet rymmer både soffgrupp och tillhörande möblemang där familj och vänner kan samlas. 2 sovrum. Rymligt badrum med klädvårdsavdelning. Inglasad balkong i fritt läge och vacker utsikt. Här i populära Amhult har du gångavstånd till alla tänkbara bekvämligheter som dagligvaruhandel, butiker, bank, apotek caféer, restauranger och kulturhuset Vingen. Goda kommunikationer och närhet till hav och natur.",
+			"shortInfo": "Gedigen villa från 1926 som totalrenoverats och byggts ut med varsam hand. Resultatet - ett unikt och modernt hus med mycket charm! Beläget på en hörntomt där Irisgatan möter Södertorpsvägen finner vi det med en stor härlig tomt.",
+			"roomInfo": [
+				"Välkommen in till ett trevligt och välskött trapphus och ta hissen högst upp i lägenheten.",
+				"I bostaden möts du av en ljus och fräsch hall med klinker och en fin parkett som är genomgående i hela lägenheten. Hallen erbjuder goda av hängnings möjligheter i både öppen och stängd förvaring. Lägenheten är målad 2015 i ljusa färger som skapar en behaglig och fräsch känsla.",
+				"Vardagsrummet har öppen planlösning mot kökets matplats vilket skapar rymd i bostaden. Vardagsrummet är väl tilltaget och rymmer både soffgrupp med tillhörande möblemang och teknikutrustning. Utgång till den härliga inglasade balkongen. De generösa fönsterpartierna gör att ljuset hittar in i bostaden och du kan blicka ut över golfbanan, älven och grannskapet.",
+				"Badrummet når du från hallen. Här har du bostadens tvättavdelning med tvättmaskin, 2014 och torktumlare. Praktisk avlastningsskiva över maskinerna underlättar vid hanteringen av tvätten. Bra skåp skapar extra förvaring. Helkaklat i naturfärger. Badrumskommod med spegel och belysning. Badkar med dusch möjlighet. Handdukstork håller badlakanen torra och varma. Härlig golvvärme."
+			]
+		},
+		"img": [
+			{"src":"/img/objectId7-img1.jpg", "caption":"Vackert belägen i en rosendoftande skogsdunge!"},
+			{"src":"/img/objectId7-img2.jpg", "caption":"Vackert belägen i en rosendoftande skogsdunge!"},
+			{"src":"/img/objectId1-img3.jpg", "caption":"Vackert belägen i en rosendoftande skogsdunge!"},
+			{"src":"/img/objectId1-img4.jpg", "caption":"Vackert belägen i en rosendoftande skogsdunge!"}
+		],
+
+		"layout": [
+			{"src":"/img/layout1.jpg", "description":"Bottenvåningen"},
+			{"src":"/img/layout2.jpg", "description":"Andra våningen"},
+			{"src":"/img/layout3.jpg", "description":"Tredje våningen"}
+		]
+	},
+	{
+		"dateAdded": "2017-01-03",
+		"type": "Bostadsrättsradhus",
+		"price": 650000,
+		"priceMonth": 5900,
+		"buildDate": 1990,
+		"showings": [
+			{"date": "2017-05-21", "from": "11:00", "to": "13:00"},
+			{"date": "2017-05-25", "from": "09:00", "to": "11:00"},
+			{"date": "2017-05-26", "from": "11:30", "to": "14:30"},
+			{"date": "2017-05-28", "from": "11:00", "to": "13:00"}
+		],
+		"sold":false,
+		"rooms": 8,
+		"bathrooms": 2,
+		"area": 140,
+		"totalArea": 190,
+		"brokerId": "1",
+		"place": {
+			"city": "Kivik",
+			"municipality": "Simrishamn",
+			"adress": "Skånevägen 8",
+			"postcode": 27143
+		},
+		"text": {
+			"info": "På bra pendlingsläge med närhet till både Lund och Malmö finner ni detta välplanerade parhus i populära Dalby. Bostaden är belägen i ett bilfritt och mycket barnvänligt område. Bostaden erbjuder två bra sovrum, vardagsrum med utgång till uteplats och gräsmatta på baksidan, tvättstuga badrum och kök med egen matplats. Bra möjlighet till förvaring på vinden, vilken även kan förädlas till bostad om så önskas. Dalby har mycket att erbjuda i service utbud, bra skolor, möjlighet till kommunikationer och inte att förglömma Dalbys fantastiska natur. Varmt välkomna att boka in er på en visning!",
+			"shortInfo": "Ett hus att sämja dem, ett hus att främja dem, ett hus att djupt i mörkrets vida riken tämja dem!",
+			"roomInfo": [
+				"Välkomnande ingång på tomten via stensatt gång, tomten är inringad av nybyggt staket.",
+				"Ingång sker antingen via tvättstuga eller genom huvudingången. Från huvudingången har ni en bra uppfattning om hela bostaden, Här finns gott om möjlighet för avhängning och förvaring. Hallen är målad och tapetserad och på golvet ligger parkett. Från hallen tar ni er enkelt in i vardagsrummet som ligger rakt fram, här finns gott om plats för både vardagsrumsmöblemang och matplats om så önskas. Här finns även utgång till en uteplats och gräsmatta. Vardagsrummet är vitmålat och på golvet ligger parkettgolv.",
+				"Från hallen når ni även tvättstugan som är utrustad med tvättmaskin, torktumlare, tvättställ och bra förvaring.",
+				"Vidare från hallen når ni köket som med härligt ljusinsläpp ger ett mysigt kök med bra förvaringsmöjlighet och matplats för ca 6 personer.",
+				"Trädgårdstomt med fruktträd, gräsmatta på tre sidor med gott om utrymme för lek och spel."
+			]
+		},
+		"img": [
+			{"src":"img/objectId8-img1.jpg", "caption":"Vackert belägen i en rosendoftande skogsdunge!"},
+			{"src":"img/objectId8-img2.jpg", "caption":"Vackert belägen i en rosendoftande skogsdunge!"},
+			{"src":"img/objectId2-img3.jpg", "caption":"Vackert belägen i en rosendoftande skogsdunge!"},
+			{"src":"img/objectId2-img4.jpg", "caption":"Vackert belägen i en rosendoftande skogsdunge!"},
+			{"src":"img/objectId2-img5.jpg", "caption":"Vackert belägen i en rosendoftande skogsdunge!"}
+		],
+
+		"layout": [
+			{"src":"/img/layout4.jpg", "description":"Bottenvåningen"},
+			{"src":"/img/layout5.jpg", "description":"Andra våningen"},
+			{"src":"/img/layout6.jpg", "description":"Tredje våningen"}
+		]
+	},
+	{
+		"dateAdded": "2017-03-03",
+		"type": "Villa",
+		"price": 200000,
+		"priceMonth": 5900,
+		"buildDate": 2010,
+		"showings": [
+			{"date": "2017-05-21", "from": "11:00", "to": "13:00"},
+			{"date": "2017-05-25", "from": "09:00", "to": "11:00"},
+			{"date": "2017-05-26", "from": "11:30", "to": "14:30"},
+			{"date": "2017-05-28", "from": "11:00", "to": "13:00"}
+		],
+		"sold":false,
+		"rooms": 10,
+		"bathrooms": 2,
+		"area": 140,
+		"totalArea": 300,
+		"brokerId": "2",
+		"place": {
+			"city": "Kivik",
+			"municipality": "Simrishamn",
+			"adress": "Dendärvägen 23",
+			"postcode": 27149
+		},
+		"text": {
+			"info": "Bacon meatball ham ham hock, andouille corned beef ball tip doner pork chop beef sirloin turkey tenderloin. Hamburger pig cupim, sirloin pancetta chuck ham short loin bacon shankle ham hock capicola filet mignon chicken. Meatball burgdoggen pig sirloin ham hock, fatback beef ribs jerky pork belly kevin ground round meatloaf chuck. Ham biltong beef shank, capicola ham hock jerky kevin meatloaf frankfurter sausage pancetta corned beef t-bone. Capicola short loin tongue leberkas bresaola. Kevin leberkas ground round strip steak sausage, doner turkey meatloaf chuck cow rump. Tenderloin short ribs andouille strip steak sausage. Kielbasa pork chop jerky capicola leberkas meatloaf tongue landjaeger hamburger. Short ribs flank burgdoggen ground round turkey sirloin shank kielbasa chicken jerky. Pig bresaola bacon tenderloin. Ribeye short loin burgdoggen chuck filet mignon jowl tail andouille ball tip. Picanha jowl shankle bresaola. Salami kielbasa frankfurter shank. Shoulder swine tenderloin fatback turkey leberkas, chicken flank cow kevin beef. Pork loin landjaeger pork chop spare ribs prosciutto strip steak.",
+			"shortInfo": "Bacon ipsum dolor amet pork loin swine shank bresaola brisket, burgdoggen biltong pork chop pig fatback. Kielbasa ham pancetta ribeye venison shankle shank spare ribs doner beef. Tri-tip fatback biltong shoulder tail. Shoulder bacon biltong short ribs landjaeger pastrami cupim sausage drumstick kevin andouille alcatra turkey. Ball tip doner beef porchetta. Short ribs venison bacon, sirloin salami alcatra rump kielbasa chicken jowl filet mignon brisket landjaeger leberkas.",
+			"roomInfo": [
+				"Välkomnande ingång på tomten via stensatt gång, tomten är inringad av nybyggt staket.",
+				"Ingång sker antingen via tvättstuga eller genom huvudingången. Från huvudingången har ni en bra uppfattning om hela bostaden, Här finns gott om möjlighet för avhängning och förvaring. Hallen är målad och tapetserad och på golvet ligger parkett. Från hallen tar ni er enkelt in i vardagsrummet som ligger rakt fram, här finns gott om plats för både vardagsrumsmöblemang och matplats om så önskas. Här finns även utgång till en uteplats och gräsmatta. Vardagsrummet är vitmålat och på golvet ligger parkettgolv.",
+				"Från hallen når ni även tvättstugan som är utrustad med tvättmaskin, torktumlare, tvättställ och bra förvaring.",
+				"Vidare från hallen når ni köket som med härligt ljusinsläpp ger ett mysigt kök med bra förvaringsmöjlighet och matplats för ca 6 personer.",
+				"Trädgårdstomt med fruktträd, gräsmatta på tre sidor med gott om utrymme för lek och spel."
+			]
+		},
+		"img": [
+			{"src":"img/objectId9-img1.jpg", "caption":"Vackert belägen i en rosendoftande skogsdunge!"},
+			{"src":"img/objectId9-img2.jpg", "caption":"Vackert belägen i en rosendoftande skogsdunge!"},
+			{"src":"img/objectId9-img3.jpg", "caption":"Vackert belägen i en rosendoftande skogsdunge!"}
+		],
+
+		"layout": [
+			{"src":"/img/layout4.jpg", "description":"Bottenvåningen"},
+			{"src":"/img/layout5.jpg", "description":"Andra våningen"}
+		]
+	},
+	{
+		"dateAdded": "2017-03-03",
+		"type": "Bostadsrättsradhus",
+		"price": 3000000,
+		"priceMonth": 7000,
+		"buildDate": 2000,
+		"showings": [
+			{"date": "2017-05-21", "from": "11:00", "to": "13:00"},
+			{"date": "2017-05-25", "from": "09:00", "to": "11:00"},
+			{"date": "2017-05-26", "from": "11:30", "to": "14:30"},
+			{"date": "2017-05-28", "from": "11:00", "to": "13:00"}
+		],
+		"sold":false,
+		"rooms": 15,
+		"bathrooms": 3,
+		"area": 140,
+		"totalArea": 190,
+		"brokerId": "3",
+		"place": {
+			"city": "Malmö",
+			"municipality": "Malmö",
+			"adress": "Fictionv 10",
+			"postcode": 27043
+		},
+		"text": {
+			"info": "Bacon meatball ham ham hock, andouille corned beef ball tip doner pork chop beef sirloin turkey tenderloin. Hamburger pig cupim, sirloin pancetta chuck ham short loin bacon shankle ham hock capicola filet mignon chicken. Meatball burgdoggen pig sirloin ham hock, fatback beef ribs jerky pork belly kevin ground round meatloaf chuck. Ham biltong beef shank, capicola ham hock jerky kevin meatloaf frankfurter sausage pancetta corned beef t-bone. Capicola short loin tongue leberkas bresaola. Kevin leberkas ground round strip steak sausage, doner turkey meatloaf chuck cow rump. Tenderloin short ribs andouille strip steak sausage. Kielbasa pork chop jerky capicola leberkas meatloaf tongue landjaeger hamburger. Short ribs flank burgdoggen ground round turkey sirloin shank kielbasa chicken jerky. Pig bresaola bacon tenderloin. Ribeye short loin burgdoggen chuck filet mignon jowl tail andouille ball tip. Picanha jowl shankle bresaola. Salami kielbasa frankfurter shank. Shoulder swine tenderloin fatback turkey leberkas, chicken flank cow kevin beef. Pork loin landjaeger pork chop spare ribs prosciutto strip steak.",
+			"shortInfo": "Bacon ipsum dolor amet pork loin swine shank bresaola brisket, burgdoggen biltong pork chop pig fatback. Kielbasa ham pancetta ribeye venison shankle shank spare ribs doner beef. Tri-tip fatback biltong shoulder tail. Shoulder bacon biltong short ribs landjaeger pastrami cupim sausage drumstick kevin andouille alcatra turkey. Ball tip doner beef porchetta. Short ribs venison bacon, sirloin salami alcatra rump kielbasa chicken jowl filet mignon brisket landjaeger leberkas.",
+			"roomInfo": [
+				"Välkomnande ingång på tomten via stensatt gång, tomten är inringad av nybyggt staket.",
+				"Ingång sker antingen via tvättstuga eller genom huvudingången. Från huvudingången har ni en bra uppfattning om hela bostaden, Här finns gott om möjlighet för avhängning och förvaring. Hallen är målad och tapetserad och på golvet ligger parkett. Från hallen tar ni er enkelt in i vardagsrummet som ligger rakt fram, här finns gott om plats för både vardagsrumsmöblemang och matplats om så önskas. Här finns även utgång till en uteplats och gräsmatta. Vardagsrummet är vitmålat och på golvet ligger parkettgolv.",
+				"Från hallen når ni även tvättstugan som är utrustad med tvättmaskin, torktumlare, tvättställ och bra förvaring.",
+				"Vidare från hallen når ni köket som med härligt ljusinsläpp ger ett mysigt kök med bra förvaringsmöjlighet och matplats för ca 6 personer.",
+				"Trädgårdstomt med fruktträd, gräsmatta på tre sidor med gott om utrymme för lek och spel."
+			]
+		},
+		"img": [
+			{"src":"img/objectId10-img1.jpg", "caption":"Vackert belägen i en rosendoftande skogsdunge!"},
+			{"src":"img/objectId10-img2.jpg", "caption":"Vackert belägen i en rosendoftande skogsdunge!"},
+			{"src":"img/objectId10-img3.jpg", "caption":"Vackert belägen i en rosendoftande skogsdunge!"}
+		],
+
+		"layout": [
+			{"src":"/img/layout4.jpg", "description":"Bottenvåningen"},
+			{"src":"/img/layout5.jpg", "description":"Andra våningen"},
+			{"src":"/img/layout6.jpg", "description":"Tredje våningen"}
+		]
+	},
+	{
+		"dateAdded": "2017-03-03",
+		"type": "Bostadsrättsradhus",
+		"price": 1650000,
+		"priceMonth": 6000,
+		"buildDate": 1995,
+		"showings": [
+			{"date": "2017-05-21", "from": "11:00", "to": "13:00"},
+			{"date": "2017-05-25", "from": "09:00", "to": "11:00"},
+			{"date": "2017-05-26", "from": "11:30", "to": "14:30"},
+			{"date": "2017-05-28", "from": "11:00", "to": "13:00"}
+		],
+		"sold":false,
+		"rooms": 10,
+		"bathrooms": 2,
+		"area": 150,
+		"totalArea": 200,
+		"brokerId": "4",
+		"place": {
+			"city": "Brösarp",
+			"municipality": "Tomelilla",
+			"adress": "Storgatan 2",
+			"postcode": 29148
+		},
+		"text": {
+			"info": "Bacon meatball ham ham hock, andouille corned beef ball tip doner pork chop beef sirloin turkey tenderloin. Hamburger pig cupim, sirloin pancetta chuck ham short loin bacon shankle ham hock capicola filet mignon chicken. Meatball burgdoggen pig sirloin ham hock, fatback beef ribs jerky pork belly kevin ground round meatloaf chuck. Ham biltong beef shank, capicola ham hock jerky kevin meatloaf frankfurter sausage pancetta corned beef t-bone. Capicola short loin tongue leberkas bresaola. Kevin leberkas ground round strip steak sausage, doner turkey meatloaf chuck cow rump. Tenderloin short ribs andouille strip steak sausage. Kielbasa pork chop jerky capicola leberkas meatloaf tongue landjaeger hamburger. Short ribs flank burgdoggen ground round turkey sirloin shank kielbasa chicken jerky. Pig bresaola bacon tenderloin. Ribeye short loin burgdoggen chuck filet mignon jowl tail andouille ball tip. Picanha jowl shankle bresaola. Salami kielbasa frankfurter shank. Shoulder swine tenderloin fatback turkey leberkas, chicken flank cow kevin beef. Pork loin landjaeger pork chop spare ribs prosciutto strip steak.",
+			"shortInfo": "Bacon ipsum dolor amet pork loin swine shank bresaola brisket, burgdoggen biltong pork chop pig fatback. Kielbasa ham pancetta ribeye venison shankle shank spare ribs doner beef. Tri-tip fatback biltong shoulder tail. Shoulder bacon biltong short ribs landjaeger pastrami cupim sausage drumstick kevin andouille alcatra turkey. Ball tip doner beef porchetta. Short ribs venison bacon, sirloin salami alcatra rump kielbasa chicken jowl filet mignon brisket landjaeger leberkas.",
+			"roomInfo": [
+				"Välkomnande ingång på tomten via stensatt gång, tomten är inringad av nybyggt staket.",
+				"Ingång sker antingen via tvättstuga eller genom huvudingången. Från huvudingången har ni en bra uppfattning om hela bostaden, Här finns gott om möjlighet för avhängning och förvaring. Hallen är målad och tapetserad och på golvet ligger parkett. Från hallen tar ni er enkelt in i vardagsrummet som ligger rakt fram, här finns gott om plats för både vardagsrumsmöblemang och matplats om så önskas. Här finns även utgång till en uteplats och gräsmatta. Vardagsrummet är vitmålat och på golvet ligger parkettgolv.",
+				"Från hallen når ni även tvättstugan som är utrustad med tvättmaskin, torktumlare, tvättställ och bra förvaring.",
+				"Vidare från hallen når ni köket som med härligt ljusinsläpp ger ett mysigt kök med bra förvaringsmöjlighet och matplats för ca 6 personer.",
+				"Trädgårdstomt med fruktträd, gräsmatta på tre sidor med gott om utrymme för lek och spel."
+			]
+		},
+		"img": [
+			{"src":"img/objectId11-img1.jpg", "caption":"Vackert belägen i en rosendoftande skogsdunge!"},
+			{"src":"img/objectId11-img2.jpg", "caption":"Vackert belägen i en rosendoftande skogsdunge!"},
+			{"src":"img/objectId11-img3.jpg", "caption":"Vackert belägen i en rosendoftande skogsdunge!"}
+		],
+
+		"layout": [
+			{"src":"/img/layout4.jpg", "description":"Bottenvåningen"},
+			{"src":"/img/layout5.jpg", "description":"Andra våningen"},
+			{"src":"/img/layout6.jpg", "description":"Tredje våningen"}
+		]
+	},
+	{
+		"dateAdded": "2017-03-03",
+		"type": "Villa",
+		"price": 2650000,
+		"priceMonth": 6900,
+		"buildDate": 2015,
+		"showings": [
+			{"date": "2017-05-21", "from": "11:00", "to": "13:00"},
+			{"date": "2017-05-25", "from": "09:00", "to": "11:00"},
+			{"date": "2017-05-26", "from": "11:30", "to": "14:30"},
+			{"date": "2017-05-28", "from": "11:00", "to": "13:00"}
+		],
+		"sold":false,
+		"rooms": 12,
+		"bathrooms": 3,
+		"area": 200,
+		"totalArea": 290,
+		"brokerId": "5",
+		"place": {
+			"city": "Kivik",
+			"municipality": "Simrishamn",
+			"adress": "Kivikgatan 1",
+			"postcode": 27155
+		},
+		"text": {
+			"info": "Bacon meatball ham ham hock, andouille corned beef ball tip doner pork chop beef sirloin turkey tenderloin. Hamburger pig cupim, sirloin pancetta chuck ham short loin bacon shankle ham hock capicola filet mignon chicken. Meatball burgdoggen pig sirloin ham hock, fatback beef ribs jerky pork belly kevin ground round meatloaf chuck. Ham biltong beef shank, capicola ham hock jerky kevin meatloaf frankfurter sausage pancetta corned beef t-bone. Capicola short loin tongue leberkas bresaola. Kevin leberkas ground round strip steak sausage, doner turkey meatloaf chuck cow rump. Tenderloin short ribs andouille strip steak sausage. Kielbasa pork chop jerky capicola leberkas meatloaf tongue landjaeger hamburger. Short ribs flank burgdoggen ground round turkey sirloin shank kielbasa chicken jerky. Pig bresaola bacon tenderloin. Ribeye short loin burgdoggen chuck filet mignon jowl tail andouille ball tip. Picanha jowl shankle bresaola. Salami kielbasa frankfurter shank. Shoulder swine tenderloin fatback turkey leberkas, chicken flank cow kevin beef. Pork loin landjaeger pork chop spare ribs prosciutto strip steak.",
+			"shortInfo": "Bacon ipsum dolor amet pork loin swine shank bresaola brisket, burgdoggen biltong pork chop pig fatback. Kielbasa ham pancetta ribeye venison shankle shank spare ribs doner beef. Tri-tip fatback biltong shoulder tail. Shoulder bacon biltong short ribs landjaeger pastrami cupim sausage drumstick kevin andouille alcatra turkey. Ball tip doner beef porchetta. Short ribs venison bacon, sirloin salami alcatra rump kielbasa chicken jowl filet mignon brisket landjaeger leberkas.",
+			"roomInfo": [
+				"Välkomnande ingång på tomten via stensatt gång, tomten är inringad av nybyggt staket.",
+				"Ingång sker antingen via tvättstuga eller genom huvudingången. Från huvudingången har ni en bra uppfattning om hela bostaden, Här finns gott om möjlighet för avhängning och förvaring. Hallen är målad och tapetserad och på golvet ligger parkett. Från hallen tar ni er enkelt in i vardagsrummet som ligger rakt fram, här finns gott om plats för både vardagsrumsmöblemang och matplats om så önskas. Här finns även utgång till en uteplats och gräsmatta. Vardagsrummet är vitmålat och på golvet ligger parkettgolv.",
+				"Från hallen når ni även tvättstugan som är utrustad med tvättmaskin, torktumlare, tvättställ och bra förvaring.",
+				"Vidare från hallen når ni köket som med härligt ljusinsläpp ger ett mysigt kök med bra förvaringsmöjlighet och matplats för ca 6 personer.",
+				"Trädgårdstomt med fruktträd, gräsmatta på tre sidor med gott om utrymme för lek och spel."
+			]
+		},
+		"img": [
+			{"src":"img/objectId12-img1.jpg", "caption":"Vackert belägen i en rosendoftande skogsdunge!"},
+			{"src":"img/objectId12-img2.jpg", "caption":"Vackert belägen i en rosendoftande skogsdunge!"},
+			{"src":"img/objectId12-img3.jpg", "caption":"Vackert belägen i en rosendoftande skogsdunge!"}
+		],
+
+		"layout": [
+			{"src":"/img/layout4.jpg", "description":"Bottenvåningen"},
+			{"src":"/img/layout5.jpg", "description":"Andra våningen"},
+			{"src":"/img/layout6.jpg", "description":"tredje våningen"}
+		]
+	}
+]

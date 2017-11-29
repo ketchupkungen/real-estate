@@ -1,0 +1,18 @@
+.search-component {
+	background-color: #F5F5F5;
+}
+
+.search-component .dropdown {
+	width: 100%;
+	color: white;
+	margin-bottom: 10px;
+}
+
+.search-component .dropdown button {
+	width: 100%;
+}
+
+.search-component .dropdown button:hover {
+	cursor: pointer;
+}
+

@@ -1,0 +1,12 @@
+<div class="container">
+	<div class="row mt-5">
+		<div class="col-12">
+			<div *ngIf="salesObject" class="layout">
+				<div *ngFor="let layout of salesObject.layout">
+					<p>{{layout.description}}</p>
+					<img class="img-fluid mb-5" src="{{layout.src}}">
+				</div>
+			</div>
+		</div>
+	</div>
+</div>

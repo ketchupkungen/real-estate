@@ -1,0 +1,16 @@
+.sales-object-header {
+  margin-top:15px;
+}
+
+
+@media screen and (max-width: 514px) {
+	.sales-object-header {
+	  font-size: 15px;
+	}
+}	
+
+@media screen and (max-width: 422px) {
+	.sales-object-header {
+	  font-size: 12px;
+	}	
+}

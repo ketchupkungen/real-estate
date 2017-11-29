@@ -1,0 +1,24 @@
+<div class="container card-container" *ngIf="usObject">
+	<div class="row mb-2 mt-2">
+    <div class="col-12">
+      <div class="card border-0">
+        <div class="card-block">
+          <div class="row mt-2">
+            <div class="col-xs-12 col-sm-6">
+              <h5 class="mt-4">Direktkontakt</h5>
+              <p><b>Telefon: </b> {{usObject.contact.phone}}</p>
+              <p><b>Mail kontakt: </b> {{usObject.contact.mail.hq}}</p>
+              <p><b>Mail support: </b> {{usObject.contact.mail.support}}</p>
+            </div>
+            <div class="col-xs-12 col-sm-6">
+              <h5 class="mt-4">Besöksadress</h5>
+              <p><b>Stad: </b> {{usObject.place.city}}</p>
+              <p><b>Adress: </b> {{usObject.place.adress}}</p>
+              <p><b>Postnr: </b> {{convertNumberToPostcode(usObject.place.postcode)}}</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+	</div>
+</div>

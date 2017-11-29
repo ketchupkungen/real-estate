@@ -1,0 +1,14 @@
+<div class="container-fluid">
+  <div class="row" >
+    <div class="col-12">
+      <img class="img-fluid about-us mt-5" src="img/about-us.jpg" alt="House image">
+    </div>
+  </div>
+ <div class="container" *ngIf="usObject">
+  <div class="row mt-5 mb-5">
+    <div class="col-12">
+      <h2 class="text-muted card-title">{{usObject.about.header}}</h2>
+      <p *ngFor="let text of usObject.about.texts" class="text-muted">{{text}}</p>
+    </div>
+  </div>
+</div>

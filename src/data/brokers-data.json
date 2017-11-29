@@ -1,0 +1,79 @@
+[
+	{
+		"firstName":"Kalle",
+		"lastName":"Bengtsson",
+		"brokerId": "1",
+		"contact": {
+			"phone": "070-2730125",
+			"mail": "kalle.bengtsson@dhyrorumson.se",
+			"personDesc": "Bacon ipsum dolor amet brisket fatback sirloin ham turkey. Short loin beef ribs brisket."
+		},
+	  "profile_image_src":"img/employees/kallebengtsson.jpeg"
+	},
+	{
+		"firstName":"Mango",
+		"lastName":"Lugosson",
+		"brokerId": "2",
+		"contact": {
+			"phone": "070-1140524",
+			"mail": "mango.lugosson@dhyrorumson.se",
+			"personDesc": "Salami cow tri-tip, burgdoggen beef ribs pork belly short loin andouille frankfurter shankle pancetta pastrami cupim pork loin."
+		},
+	  "profile_image_src":"img/employees/mangolugosson.jpeg"
+	},
+	{
+		"firstName":"Erika",
+		"lastName":"Östrand",
+		"brokerId": "3",
+		"contact": {
+			"phone": "070-2201148",
+			"mail": "erika.ostrand@dhyrorumson.se",
+			"personDesc": "Beef prosciutto kielbasa pork chop pig salami jowl leberkas. Pork filet mignon brisket doner picanha hamburger."
+		},
+	  "profile_image_src":"img/employees/erikaostrand.jpeg"
+	},
+	{
+		"firstName":"Sture",
+		"lastName":"Eriksson",
+		"brokerId": "4",
+		"contact": {
+			"phone": "070-6701848",
+			"mail": "sture.eriksson@dhyrorumson.se",
+			"personDesc": "Turducken ground round andouille leberkas beef, shank sausage biltong shankle. Tenderloin tongue ground round hamburger."
+		},
+	  "profile_image_src":"img/employees/stureeriksson.jpeg"
+	},
+	{
+		"firstName":"Erik",
+		"lastName":"Olsson",
+		"brokerId": "5",
+		"contact": {
+			"phone": "070-3401948",
+			"mail": "erik.olsson@dhyrorumson.se",
+			"personDesc": "Burgdoggen kevin leberkas swine beef corned beef, biltong short loin pig venison pastrami flank. Cow shankle jowl, . Tenderloin tongue ground round hamburger."
+		},
+	  "profile_image_src":"img/employees/erikolsson.jpeg"
+	},
+	{
+		"firstName":"Bob",
+		"lastName":"Bobsson",
+		"brokerId": "6",
+		"contact": {
+			"phone": "070-1207148",
+			"mail": "bob.bobsson@dhyrorumson.se",
+			"personDesc": "pork belly hamburger drumstick t-bone tail spare ribs ham hock short loin tenderloin pig prosciutto andouille. Boudin short ribs shank alcatra landjaeger. Landjaeger spare ribs alcatra."
+		},
+	  "profile_image_src":"img/employees/bobbobsson.jpg"
+	},
+	{
+		"firstName":"Göran",
+		"lastName":"Jörgensen",
+		"brokerId": "7",
+		"contact": {
+			"phone": "070-1897148",
+			"mail": "goran.jorgensen@dhyrorumson.se",
+			"personDesc": "Cow capicola brisket, flank meatball ham pastrami boudin meatloaf shank tongue sirloin burgdoggen."
+		},
+	  "profile_image_src":"img/employees/goranjorgensen.jpeg"
+	}
+]

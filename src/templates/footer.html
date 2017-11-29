@@ -1,0 +1,27 @@
+<div class="container-fluid footer mt-5 pt-5">
+	<div class="row">
+		<div class="col">
+			<div class="footerLinks">
+				<ul class="footerFollow">
+					<li><a href="#" class="btn btn-social-icon btn-facebook">
+					<i class="fa fa-facebook"></i></a></li>
+					<li><a href="#" class="btn btn-social-icon btn-twitter"><i class="fa fa-twitter"></i></a></li>
+					<li><a href="#" class="btn btn-social-icon btn-instagram"><i class="fa fa-instagram"></i></a></li>
+					<li><a href="#" class="btn btn-social-icon btn-linkedin"><i class="fa fa-linkedin"></i></a></li>
+				</ul>
+				<ul>
+					<li *ngFor="let tag of tags"><a href="" routerLink="{{tag.link}}">{{tag.name}}</a></li>
+				</ul>
+
+			</div>
+		</div>
+	</div>
+
+	<hr class="footerHr">
+
+	<div class="row">
+		<div class="col-12">
+			<p class="copyright">Copyright &copy; 2010-2018 All rights reserved.</p>
+		</div>
+	</div>
+</div>
