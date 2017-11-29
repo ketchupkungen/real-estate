@@ -63,8 +63,8 @@ mongoose.connection.once('open', onceConnected);
 
 function onceConnected() {
 	// Start the server
-	app.listen(3000, ()=>{
-	  console.log('Express app listening on port 3000!');
+	app.listen(3003, ()=>{
+	  console.log('Express app listening on port 3003!');
 	});
 
 	// For each collection type we have JSON of
